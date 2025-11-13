@@ -109,4 +109,3 @@ python main.py
 
 *"Built with CrewAI — where multiple agents work together to make information intelligent."*
 
-```
